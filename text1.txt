@@ -1,1 +1,2 @@
 Add this line after unstaging
+Second line
